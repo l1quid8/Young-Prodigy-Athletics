@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 96">
+  <path d="M37.5 0 L75 18 L75 66 Q75 88 37.5 96 Q0 88 0 66 L0 18 Z" fill="#C8960C"/>
+  <path d="M37.5 7 L68 23 L68 66 Q68 84 37.5 89 Q7 84 7 66 L7 23 Z" fill="#1A1008"/>
+  <text x="37.5" y="50" text-anchor="middle" dominant-baseline="central" fill="#C8960C" font-size="22" font-family="Georgia, serif" font-weight="900">YP</text>
+  <text x="37.5" y="70" text-anchor="middle" dominant-baseline="central" fill="#C8960C" font-size="9" font-family="Georgia, serif" letter-spacing="2">ATH</text>
+</svg>
